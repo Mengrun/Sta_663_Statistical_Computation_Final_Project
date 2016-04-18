@@ -1,4 +1,4 @@
-# Sta_663_Statistical_Computation_Final_Project
+# Implementation of Scalable K-means ++
 
 Team Member:
 
