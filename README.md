@@ -1,4 +1,4 @@
-# Implementation of Scalable K-means ++
+# Implementation of Scalable K-Means++
 
 Team Member:
 
